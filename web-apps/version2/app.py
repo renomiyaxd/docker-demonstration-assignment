@@ -1,4 +1,3 @@
-# app_v2.py
 from flask import Flask
 import os
 
